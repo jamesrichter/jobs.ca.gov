@@ -1,2 +1,2 @@
 # jobs.ca.gov
-jobs.ca.gov is a terrible website
+Simple utility to help navigate jobs.ca.gov.
